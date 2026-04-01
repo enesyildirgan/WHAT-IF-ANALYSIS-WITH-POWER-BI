@@ -48,9 +48,6 @@ Aşağıdaki animasyonda raporun önizlemesini görebilirsiniz.
 ---
 
 
-
-
-
 ## 🛠 Kullanılan Teknolojiler ve Araçlar
 
 
@@ -63,7 +60,7 @@ Aşağıdaki animasyonda raporun önizlemesini görebilirsiniz.
 
 
 
----
+
 
 
 
